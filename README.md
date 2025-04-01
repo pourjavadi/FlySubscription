@@ -36,3 +36,7 @@ To use this template in your project, follow these steps:
    ```bash
    echo 'CUSTOM_TEMPLATES_DIRECTORY="/var/lib/marzban/templates/"' | sudo tee -a /opt/marzban/.env
    echo 'SUBSCRIPTION_PAGE_TEMPLATE="subscription/index.html"' | sudo tee -a /opt/marzban/.env
+3. **Restart marzban** :
+   ```bash
+   sudo marzban restart
+Done , Good Luck :)
