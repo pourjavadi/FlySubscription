@@ -1,6 +1,8 @@
 # Fly Subscription Template Marzban
 
-![Fly Subscription Preview](https://via.placeholder.com/800x400.png?text=Fly+Subscription+Template+Preview)  
+![image](https://github.com/user-attachments/assets/2fe51940-bf9f-4083-a15d-f8c9fcdf915d)
+![image](https://github.com/user-attachments/assets/37de607d-8149-42ff-83aa-acafe67819ae)
+
 *A sleek, modern subscription dashboard template designed for Marzban, built with HTML, CSS, and JavaScript.*
 
 ---
